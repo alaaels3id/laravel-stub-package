@@ -1,0 +1,19 @@
+{
+    "name": "alaaelsaid/laravel-stub-package",
+    "description": "This is a package to create custom stub file",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alaaelsaid\\LaravelStubPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alaaels3id",
+            "email": "alaa4cat@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
